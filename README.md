@@ -3,7 +3,7 @@
 > ToG 项目全生命周期售前专家，覆盖数字政府、智慧城市、一网通办、城市大脑、政务云等项目的全流程售前支持。
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](SKILL.md)
+[![Version](https://img.shields.io/badge/version-1.0.1-green.svg)](SKILL.md)
 
 ## 📋 项目简介
 
