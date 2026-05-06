@@ -32,7 +32,17 @@
 - OpenClaw v0.3.0+ 或兼容 Skill 加载机制的 Agent 框架
 - 支持 Skill 机制的运行环境
 
-### 安装步骤
+### 安装方式
+
+#### 方式一：npm 安装（推荐）
+
+```bash
+npm install @prince90s/gov-digital-presales
+```
+
+安装完成后，Skill 会自动部署到 OpenClaw 的 skills 目录中。
+
+#### 方式二：手动安装
 
 1. **克隆或下载本项目**
 
